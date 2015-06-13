@@ -1,0 +1,45 @@
+<!doctype <!DOCTYPE html>
+<html>
+<head>
+	<title>Shaggy & Scooby</title>
+	<style>
+		/* * {
+			border: 1px solid red;
+		} */
+		h1 {
+			color: #FF3300;
+			background-color: lightblue;
+			text-align: center;
+		}
+		strong {
+			color: purple;
+		}
+		.important-item {
+			color: blue;
+			background-color: salmon;
+		}
+		.container {
+			background-color: lightgray;
+			border: 5px solid black;
+			padding: 15px;
+			margin: 15px auto;
+			width: 300px;
+			height: 300px;
+			text-align: center;
+		}
+	</style>
+</head>
+<body>
+	<h1>Like, zoiks, Scoob!</h1>
+	<div class="container">
+		<p>You <strong><em>meddling</em></strong> kids!</p>
+		<!--there is a list here-->
+		<ul>
+			<li>Monsters</li>
+			<li class="important-item">Ghosts</li>
+			<li>Werewolves</li>
+			<li><a href="http://www.kenugel.com"><img src="http://www.picgifs.com/clip-art/cartoons/scooby-doo/clip-art-scooby-doo-959006.jpg" width="150px"></a></li>
+		</ul>
+	</div>
+</body>
+</html>
